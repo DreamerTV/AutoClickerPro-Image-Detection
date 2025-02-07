@@ -12,7 +12,7 @@
 ![1](https://github.com/user-attachments/assets/fd56a3b7-598f-4354-a3a6-de997b376cba)
 
 
-2.你也可以加入鍵盤指令、鍵盤組合鍵、開啟指令視窗 並設定執行輸入時間（秒）
+2.你也可以加入鍵盤指令、鍵盤組合鍵、開啟指定視窗 並設定執行輸入時間（秒）
 
 
 ![2](https://github.com/user-attachments/assets/a482ae87-cdd4-4885-ae84-5f6926336c0c)
