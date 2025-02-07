@@ -7,7 +7,7 @@
 
 ![1](https://github.com/user-attachments/assets/bda2d45a-7211-47a8-8dd5-150367e58da8)
 
-3.你也可以設定鍵盤輸入
+3.你也可以加入鍵盤指令
 
 ![2](https://github.com/user-attachments/assets/b834e38d-b935-41dd-ae87-87e9548ce28d)
 
