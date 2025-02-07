@@ -14,12 +14,18 @@
 
 4.這裡可以設定指令間隔時間
 
-![4](https://github.com/user-attachments/assets/e3e14210-9b16-45c3-ad18-6fe2b7e9fc2c)
+![3](https://github.com/user-attachments/assets/82142aa4-989a-4071-a4dd-0f50f0c19dee)
+
+5.這裡可以查看你設定的指令列表 你可以在這裡編輯、刪除指令 也可以拖曳指令來變換指令順序
+
+![4](https://github.com/user-attachments/assets/abed3d85-0aea-4f72-86f0-10db764ece2f)
 
 
 
 
-4.
+
+
+
 
 
 
