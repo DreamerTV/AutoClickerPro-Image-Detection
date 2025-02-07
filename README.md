@@ -18,14 +18,20 @@
 ![2](https://github.com/user-attachments/assets/a482ae87-cdd4-4885-ae84-5f6926336c0c)
 
 
-5.這裡可以查看你設定的指令列表 你可以在這裡刪除指令 也可以拖曳指令來變換指令順序
+3.這裡可以查看你設定的指令列表 你可以在這裡刪除指令 也可以拖曳指令來變換指令順序
 
 
 ![3](https://github.com/user-attachments/assets/66cb5a92-8108-4532-95ec-ba2d2bef486f)
 
 
+4.新增你要偵測圖片 並設定偵測圖片精確度 偵測圖片間隔時間(秒) 新增完成後點擊【新增偵測圖片】
 
-6.恭喜你設定完成！
+(注意:圖片名稱必須是英文或數字)
+
+![4](https://github.com/user-attachments/assets/51db1847-5342-439b-a087-4c4bacb953e7)
+
+
+5.恭喜你設定完成！
 
 按下開始偵測或F2即可開始偵測！
 
