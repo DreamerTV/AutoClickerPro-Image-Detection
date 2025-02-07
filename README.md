@@ -7,6 +7,14 @@
 
 ![1](https://github.com/user-attachments/assets/bda2d45a-7211-47a8-8dd5-150367e58da8)
 
+3.這裡可以設定指令間隔時間
+
+![2](https://github.com/user-attachments/assets/726d3258-d5f3-49f5-a358-30a2b77b8927)
+
+4.
+
+
+
 # BUG回報或建議
 https://discord.gg/nupgWKJKkX
 
