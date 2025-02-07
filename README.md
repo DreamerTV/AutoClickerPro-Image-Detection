@@ -3,30 +3,30 @@
 偵測到指定圖片時，自動執行滑鼠移動點擊及鍵盤輸入
 
 # 使用教學
-1.新增你要偵測圖片 新增完成後點擊【新增偵測圖片】
 
-(注意:圖片名稱必須是英文或數字)
-
-2.將滑鼠移動到你想點擊的位置按下X鍵 並選擇滑鼠按鍵 設定完成後按下【新增滑鼠指令】 
-
-![1](https://github.com/user-attachments/assets/bda2d45a-7211-47a8-8dd5-150367e58da8)
-
-3.你也可以加入鍵盤指令
-
-![2](https://github.com/user-attachments/assets/b834e38d-b935-41dd-ae87-87e9548ce28d)
+1.將滑鼠移動到你想點擊的位置按下X鍵 選擇滑鼠按鍵 輸入點擊次數及點擊速率 例如 1,0.5 (點擊1次,點擊速率0.5) 輸入執行點擊時間(秒) 你也可以設定在觸發指令時開啟指定視窗 設定完成後按下【新增滑鼠指令】 
 
 
-4.這裡可以設定指令間隔時間
+![1](https://github.com/user-attachments/assets/fd56a3b7-598f-4354-a3a6-de997b376cba)
 
-![3](https://github.com/user-attachments/assets/82142aa4-989a-4071-a4dd-0f50f0c19dee)
 
-5.這裡可以查看你設定的指令列表 你可以在這裡選取刪除指令 也可以拖曳指令來變換指令順序
+2.你也可以加入鍵盤指令、鍵盤組合鍵、開啟指令視窗 並設定執行輸入時間(秒)
 
-![image](https://github.com/user-attachments/assets/8a7ce1be-2db0-4e34-a9fb-73435997e1ca)
+
+![2](https://github.com/user-attachments/assets/a482ae87-cdd4-4885-ae84-5f6926336c0c)
+
+
+5.這裡可以查看你設定的指令列表 你可以在這裡刪除指令 也可以拖曳指令來變換指令順序
+
+
+![3](https://github.com/user-attachments/assets/66cb5a92-8108-4532-95ec-ba2d2bef486f)
 
 
 
 6.恭喜你設定完成！
+
+![5](https://github.com/user-attachments/assets/fe111b96-2ff5-42d2-94c3-174d34a165d6)
+
 
 按下開始偵測或F2即可開始偵測！
 
