@@ -6,7 +6,7 @@
 2.設定滑鼠座標及按鍵 設定完成後按下新增滑鼠指令 ![1](https://github.com/user-attachments/assets/bda2d45a-7211-47a8-8dd5-150367e58da8)
 
 
-#BUG回報或建議
+# BUG回報或建議
 https://discord.gg/nupgWKJKkX
 
 #
