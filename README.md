@@ -45,8 +45,7 @@
 
 
 # BUG回報或建議
-## 服务器状态
-[![Discord Server](https://discord.com/api/guilds/你的服务器ID/widget.png?style=banner2)]([https://discord.gg/你的邀请链接](https://discord.gg/nupgWKJKkX))
+https://discord.gg/nupgWKJKkX
 
 # 贊助專區
 這是一個免費的程式 如果你願意的話 歡迎贊助支持我 謝謝你!
