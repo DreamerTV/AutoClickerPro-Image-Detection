@@ -1,4 +1,4 @@
-# 自動點擊工具-圖像偵測
+![4](https://github.com/user-attachments/assets/13f56e94-6d25-4ca1-a192-193c536a495e)# 自動點擊工具-圖像偵測
 
 偵測到指定圖片時，執行滑鼠移動點擊及鍵盤輸入
 
@@ -7,9 +7,17 @@
 
 ![1](https://github.com/user-attachments/assets/bda2d45a-7211-47a8-8dd5-150367e58da8)
 
-3.這裡可以設定指令間隔時間
+3.你也可以設定鍵盤輸入
 
-![2](https://github.com/user-attachments/assets/726d3258-d5f3-49f5-a358-30a2b77b8927)
+![2](https://github.com/user-attachments/assets/b834e38d-b935-41dd-ae87-87e9548ce28d)
+
+
+4.這裡可以設定指令間隔時間
+
+![4](https://github.com/user-attachments/assets/e3e14210-9b16-45c3-ad18-6fe2b7e9fc2c)
+
+
+
 
 4.
 
