@@ -25,16 +25,13 @@
 
 6.恭喜你設定完成！
 
-![5](https://github.com/user-attachments/assets/fe111b96-2ff5-42d2-94c3-174d34a165d6)
-
-
 按下開始偵測或F2即可開始偵測！
 
 程式偵測到你螢幕上的畫面與設定的偵測圖片相同就會開始執行鼠鍵操作
 
 執行完成後會繼續偵測圖片
 
-![6](https://github.com/user-attachments/assets/bc91159f-fef5-416f-8e4b-8e9354b5a870)
+![5](https://github.com/user-attachments/assets/fe111b96-2ff5-42d2-94c3-174d34a165d6)
 
 
 
