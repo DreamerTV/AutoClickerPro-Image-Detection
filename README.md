@@ -22,7 +22,8 @@
 
 5.這裡可以查看你設定的指令列表 你可以在這裡編輯、刪除指令 也可以拖曳指令來變換指令順序
 
-![4](https://github.com/user-attachments/assets/abed3d85-0aea-4f72-86f0-10db764ece2f)
+![image](https://github.com/user-attachments/assets/ad4cf3ca-2a67-410d-854c-566dbb557c90)
+
 
 6.恭喜你設定完成！
 
