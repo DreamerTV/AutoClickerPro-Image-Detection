@@ -1,0 +1,7 @@
+{
+    "target_positions": [],
+    "detection_images": [],
+    "command_interval": 1.0,
+    "confidence": 0.7,
+    "detection_interval": 5.0
+}
